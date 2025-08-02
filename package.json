@@ -1,6 +1,6 @@
 {
   "name": "local-storage-typed",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A type-safe, schema-validated localStorage wrapper using Zod.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -26,5 +26,13 @@
     "tsup": "^8.5.0",
     "typescript": "^5.8.3",
     "vitest": "^3.2.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nihaocami/local-storage-typed.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nihaocami/local-storage-typed/issues"
+  },
+  "homepage": "https://github.com/nihaocami/local-storage-typed#readme"
 }
